@@ -1,6 +1,9 @@
 # Zichu Yang, MA student.
 ## Currently enrolled in MAIR program, American University
 
+Intersted in security related issues, coding is quite challenging but fun
+
+
 ### Hi there 👋
 
 
