@@ -8,15 +8,22 @@ You see, the lines now separate.
 
 ### Skills
 
--Beginner programmer
-  -R/Rstudio
-  -Stata(nope)
- - Statistics and econometrics
+- Beginner programmer
+  - `R/Rstudio` especially `tidyverse` like `ggplot(data = x, aes(y=var1))`  
+  - Stata(nope)
+  
+- Statistics and econometrics
   - Descriptive analysis
   - Regression
   - Inference
 
-### Hi there 👋
+### An example of my skillz
+
+Here's some code I wrote in `R`:
+
+```
+mean(x$var1)
+```
 
 
 **VectorKamarov/VectorKamarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
