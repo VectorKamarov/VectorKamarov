@@ -6,6 +6,15 @@ Here goes nothing.
 
 You see, the lines now separate.
 
+### Skills
+
+-Beginner programmer
+  -R/Rstudio
+  -Stata(nope)
+ - Statistics and econometrics
+  - Descriptive analysis
+  - Regression
+  - Inference
 
 ### Hi there 👋
 
